@@ -1,0 +1,19 @@
+Task 1: Data Analysis and Visualization Pipeline Development
+Objective: Develop a comprehensive Python script to perform essential data analysis and visualization on a chosen dataset. This task aims to demonstrate proficiency in data loading, exploratory data analysis (EDA), and various data visualization techniques using Python's data science libraries.
+Deliverables:
+1.	Data Loading:
+o	Implement a Python script to load a CSV dataset (e.g., Titanic or Iris) into a Pandas DataFrame.
+2.	Exploratory Data Analysis (EDA):
+o	Data Type Inspection: Verify and display the data types of all features within the loaded dataset.
+o	Summary Statistics: Generate and present descriptive statistics (e.g., mean, median, standard deviation, quartiles) for numerical columns.
+o	Missing Value Assessment: Identify and quantify missing values for each column, providing a clear summary of their presence.
+o	Unique Value Counts: Determine and display the number of unique entries for all relevant categorical and discrete numerical features.
+3.	Data Visualization:
+o	Categorical Variable Visualization: Create bar plots for all categorical variables to visualize their distributions and frequencies.
+o	Numerical Variable Visualization: Generate scatter plots or histograms for numerical variables to illustrate their distributions, relationships, or trends.
+o	Correlation Heatmap: Construct a correlation heatmap for all numerical features to display the pairwise correlation coefficients.
+Tools/Libraries:
+•	Python
+•	Pandas
+•	Matplotlib
+•	Seaborn
